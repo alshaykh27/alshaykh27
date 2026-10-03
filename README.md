@@ -1,188 +1,197 @@
-<!-- ===================== HERO ===================== --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=220&section=header&text=Mohamed%20Khamis&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Building%20towards%20Full-Stack%20.NET&descAlignY=60&descSize=18" width="100%"/></div><div align="center"><a href="https://github.com/alshaykh27">
-<img src="https://img.shields.io/badge/GitHub-alshaykh27-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/mohamed-khamis-hassen-370054221">
-<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Khamis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:mohamedabualshaykh27@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><br/><img src="https://komarev.com/ghpvc/?username=alshaykh27&label=Profile%20Views&color=2563EB&style=for-the-badge" /></div>---
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:2563EB&height=250&section=header&text=MOHAMED%20KHAMIS&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=FULL-STACK%20.NET%20DEVELOPER&descAlignY=58&descSize=21&descColor=93C5FD"/><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+React.js;RESTful+APIs+%7C+EF+Core+%7C+SQL+Server;Building+Modern+Web+Applications;Turning+Ideas+Into+Scalable+Solutions" /><br/><br/>
 
-👨‍💻 About Me
+<a href="https://github.com/alshaykh27">
+<img src="https://img.shields.io/badge/GitHub-ALSHAYKH27-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-khamis-hassen-370054221">
+<img src="https://img.shields.io/badge/LinkedIn-MOHAMED%20KHAMIS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:mohamedabualshaykh27@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><br/><br/>
 
-Hi! I'm Mohamed Khamis, a Front-End Web Developer passionate about building modern, responsive, and user-friendly web applications.
+<img src="https://komarev.com/ghpvc/?username=alshaykh27&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/></div>---
 
-I work mainly with HTML, CSS, JavaScript, and React.js, while currently expanding my backend development skills with C#, .NET, ASP.NET Core, Entity Framework Core, SQL Server, and RESTful APIs.
+<div align="center">👋 Hello, I'm Mohamed
 
-I'm focused on becoming a Full-Stack .NET Developer and building complete applications from the user interface to the backend and database.
+Full-Stack .NET Developer
 
-💻 Front-End Development
-⚛️ React.js & JavaScript
-🔵 C# & .NET
-🌐 ASP.NET Core Web API
-🗄️ SQL Server & Entity Framework Core
-🔗 RESTful APIs
-🚀 Building real-world projects
+I build modern, responsive and scalable web applications across the complete development stack — from intuitive React interfaces to robust C# / ASP.NET Core backends and relational database systems.
 
----
+</div><br/><table align="center">
+<tr>
+<td width="50%" valign="top">🧠 What I Build
 
-🛠️ Tech Stack
+- 🌐 Full-Stack Web Applications
+- ⚛️ Modern React Interfaces
+- 🔵 ASP.NET Core Web APIs
+- 🔐 Authentication & Authorization
+- 🗄️ Database-Driven Applications
+- 🔗 RESTful Services
+- 📱 Responsive User Interfaces
+- 🧩 Maintainable Application Architecture
 
-🎨 Front-End
+</td><td width="50%" valign="top">⚙️ Engineering Focus
 
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,react" /></p>⚙️ Back-End
+- Clean Code
+- OOP & SOLID
+- REST API Design
+- Entity Framework Core
+- LINQ
+- SQL & Relational Databases
+- Dependency Injection
+- Git & GitHub
+- Separation of Concerns
+- Reusable Components
 
-<p align="left"><img src="https://skillicons.dev/icons?i=cs,dotnet" /></p>🗄️ Database & Development Tools
+</td>
+</tr>
+</table>---
 
-<p align="left"><img src="https://skillicons.dev/icons?i=sqlserver,git,github,vscode,visualstudio" /></p>---
+🧰 Technology Arsenal
 
-🚀 Featured Projects
+<div align="center">🎨 Frontend
 
-🎓 Code Path — Programming Learning Platform
+<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br/><br/>
 
-An interactive educational platform designed to organize programming career paths and learning roadmaps.
+⚡ Backend
 
-Built with:
+<img src="https://skillicons.dev/icons?i=cs,dotnet" /><br/><br/>
 
-"React.js" "JavaScript" "Responsive Design"
+🗄️ Database
 
-🔗 Live Demo:
-https://code-path-xtyn.vercel.app/
+<img src="https://skillicons.dev/icons?i=sqlserver" /><br/><br/>
 
----
+🔧 Tools
 
-🏢 Marble Stone — Business Website
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" /></div>---
 
-A responsive business website built with modern front-end technologies and responsive layout techniques.
+🚀 Featured Work
 
-Built with:
+<div align="center"><table>
+<tr><td width="50%" valign="top"><h3 align="center">🎓 Code Path</h3><p align="center">
+<b>Programming Learning Platform</b>
+</p><p>
+An interactive platform designed to organize programming career paths and learning roadmaps in a clear and accessible experience.
+</p><p align="center">
+<code>React.js</code>
+<code>JavaScript</code>
+<code>HTML</code>
+<code>CSS</code>
+</p><p align="center">
+<a href="https://code-path-xtyn.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p></td><td width="50%" valign="top"><h3 align="center">🏢 Marble Stone</h3><p align="center">
+<b>Business Website</b>
+</p><p>
+A responsive business website focused on modern layouts, clean presentation and cross-device compatibility.
+</p><p align="center">
+<code>HTML5</code>
+<code>CSS3</code>
+<code>JavaScript</code>
+<code>Flexbox</code>
+</p><p align="center">
+<a href="https://alshaykh27.github.io/Marbel-Stone/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p></td></tr><tr><td width="50%" valign="top"><h3 align="center">🌐 CURED</h3><p align="center">
+<b>Responsive Web Experience</b>
+</p><p>
+A clean mobile-first website focused on responsive design, accessibility and user experience.
+</p><p align="center">
+<code>HTML5</code>
+<code>CSS3</code>
+<code>JavaScript</code>
+</p><p align="center">
+<a href="https://alshaykh27.github.io/CURED/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p></td><td width="50%" valign="top"><h3 align="center">🚀 More Projects</h3><p align="center">
+<b>More work coming to my repositories</b>
+</p><p>
+I continuously build and publish new applications covering frontend development, backend engineering, APIs, databases and full-stack development.
+</p><p align="center">
+<code>.NET</code>
+<code>React</code>
+<code>APIs</code>
+<code>SQL</code>
+</p><p align="center">
+<a href="https://github.com/alshaykh27?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p></td></tr>
+</table></div>---
 
-"HTML5" "CSS3" "JavaScript" "Flexbox" "CSS Grid"
+🏗️ Full-Stack Architecture
 
-🔗 Live Demo:
-https://alshaykh27.github.io/Marbel-Stone/
+<div align="center">┌─────────────────────────────────────────────────────────────┐
+│                         FRONTEND                             │
+│                  React.js + JavaScript                       │
+└──────────────────────────┬──────────────────────────────────┘
+                           │
+                           │ HTTP / JSON
+                           ▼
+┌─────────────────────────────────────────────────────────────┐
+│                          API                                 │
+│                   ASP.NET Core Web API                       │
+├─────────────────────────────────────────────────────────────┤
+│            Authentication • Authorization                    │
+│            Dependency Injection • Middleware                 │
+│            Business Logic • REST Architecture                │
+└──────────────────────────┬──────────────────────────────────┘
+                           │
+                           ▼
+┌─────────────────────────────────────────────────────────────┐
+│                     DATA ACCESS                              │
+│                 Entity Framework Core                        │
+│                     LINQ / ORM                               │
+└──────────────────────────┬──────────────────────────────────┘
+                           │
+                           ▼
+┌─────────────────────────────────────────────────────────────┐
+│                        DATABASE                              │
+│                       SQL Server                             │
+└─────────────────────────────────────────────────────────────┘
 
----
+</div>---
 
-🌐 CURED — Responsive Website
+💻 Development Philosophy
 
-A clean, mobile-first website focused on responsive design, usability, and accessibility.
+<div align="center">🧩 Clean Code| 🏛️ SOLID| 🔗 REST
+Maintainable| Scalable| Standardized
 
-Built with:
+⚡ Performance| 🔐 Security| 📱 Responsive
+Efficient| Protected| User-focused
 
-"HTML5" "CSS3" "JavaScript"
+</div>---
 
-🔗 Live Demo:
-https://alshaykh27.github.io/CURED/
+📊 GitHub Analytics
 
----
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alshaykh27&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshaykh27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="175"/></div><br/><div align="center"><img src="https://streak-stats.demolab.com?user=alshaykh27&theme=tokyonight&hide_border=true&mode=weekly" /></div>---
 
-📚 Currently Learning
+🏆 GitHub Achievements
 
-<div align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver" /></div><br/>C#
-│
-├── Object-Oriented Programming
-├── Advanced C#
-└── LINQ
-        │
-        ▼
-ASP.NET Core
-│
-└── Web API
-        │
-        ├── RESTful APIs
-        └── Entity Framework Core
-                    │
-                    ▼
-                SQL Server
-
----
-
-🎯 My Development Journey
-
-HTML / CSS
-     │
-     ▼
-JavaScript
-     │
-     ▼
-React.js
-     │
-     ▼
-C#
-     │
-     ▼
-Object-Oriented Programming
-     │
-     ▼
-LINQ
-     │
-     ▼
-ASP.NET Core Web API
-     │
-     ▼
-Entity Framework Core
-     │
-     ▼
-SQL Server
-     │
-     ▼
-Full-Stack .NET Development
-
----
-
-📊 GitHub Statistics
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alshaykh27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshaykh27&layout=compact&theme=tokyonight&hide_border=true" height="170"/></div>---
-
-🔥 GitHub Streak
-
-<div align="center"><img src="https://streak-stats.demolab.com?user=alshaykh27&theme=tokyonight&hide_border=true" /></div>---
-
-🏆 GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=alshaykh27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /></div>---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=alshaykh27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"/></div>---
 
 📈 Contribution Activity
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=alshaykh27&theme=tokyo-night&hide_border=true&area=true" width="95%"/></div>---
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=alshaykh27&bg_color=020617&color=60A5FA&line=2563EB&point=FFFFFF&area_color=1D4ED8&area=true&hide_border=true&custom_title=Mohamed%20Khamis%20-%20Contribution%20Graph" width="95%"/></div>---
 
-💡 What I'm Working Towards
+🐍 Contribution Snake
 
-Frontend
-   │
-   ├── React.js
-   ├── JavaScript
-   └── Responsive UI
-          │
-          ▼
-      Backend
-          │
-          ├── C#
-          ├── ASP.NET Core
-          └── REST APIs
-                  │
-                  ▼
-              Database
-                  │
-                  ├── SQL Server
-                  └── Entity Framework Core
-                          │
-                          ▼
-                   Full-Stack Applications
+<div align="center"><img src="https://raw.githubusercontent.com/alshaykh27/alshaykh27/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/></div>---
 
----
-
-🤝 Let's Connect
+🌐 Let's Connect
 
 <div align="center"><a href="https://github.com/alshaykh27">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/mohamed-khamis-hassen-370054221">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="mailto:mohamedabualshaykh27@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></div>---
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></div><br/><div align="center">"BUILD" · "LEARN" · "CREATE" · "DELIVER"
 
-<div align="center">💻 Building. Learning. Improving. 🚀
-
-Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=120&section=footer"/></div>
+<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,40:1D4ED8,70:172554,100:020617&height=150&section=footer"/></div>
