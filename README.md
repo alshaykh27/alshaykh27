@@ -1,223 +1,267 @@
-<div align="center">👋 Hi, I'm Mohamed Khamis
-
-Full-Stack .NET Developer
-
-C# • ASP.NET Core • React.js • REST APIs • SQL Server
-
-<p>
-  <a href="https://github.com/alshaykh27">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-khamis-hassen-370054221">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohamedabualshaykh27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p></div>---
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Mohamed%20Khamis&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20.NET%20Developer&descAlignY=58&descSize=20"/><a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full-Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+React.js;RESTful+APIs+%7C+EF+Core+%7C+SQL+Server;Building+Modern+Web+Applications;Turning+Ideas+Into+Scalable+Solutions" />
+</a><br/><a href="https://github.com/alshaykh27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohamed-khamis-hassen-370054221">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mohamedabualshaykh27@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></div>---
 
 👨‍💻 About Me
 
-I'm a Full-Stack .NET Developer focused on building modern, scalable and maintainable web applications.
+I'm a Full-Stack .NET Developer passionate about building modern, scalable and user-focused web applications.
 
-I enjoy working across the full application lifecycle — from designing responsive user interfaces to building backend services, APIs, database systems and deployment workflows.
+I work across the full stack — from responsive frontend interfaces to backend APIs, databases and application architecture.
 
-- 🔹 Building full-stack web applications
-- 🔹 Developing RESTful APIs with ASP.NET Core
-- 🔹 Working with relational databases and SQL
-- 🔹 Creating modern interfaces with React.js
-- 🔹 Designing clean and maintainable application architectures
-- 🔹 Using Git & GitHub for professional development workflows
-- 🔹 Continuously improving software engineering practices
+- 💻 Full-Stack Web Development
+- ⚙️ Backend Development with C# & ASP.NET Core
+- 🎨 Modern Frontend Development with React.js
+- 🗄️ Database Design & SQL
+- 🔌 RESTful API Development
+- 🧩 Clean & Maintainable Architecture
+- 🚀 Deployment & Production Workflows
+- 🔧 Git & GitHub
 
 ---
 
-🧠 Technology Arsenal
+🧠 What I Build
+
+<table>
+<tr>
+<td width="50%">⚙️ Backend Systems
+
+- ASP.NET Core Applications
+- RESTful APIs
+- Entity Framework Core
+- Authentication & Authorization
+- Business Logic
+- Database Integration
+
+</td><td width="50%">🎨 Frontend Applications
+
+- React.js Applications
+- Next.js Applications
+- Responsive Interfaces
+- Modern UI/UX
+- API Integration
+- Interactive Web Experiences
+
+</td>
+</tr>
+</table>---
+
+🏗️ Engineering Focus
+
+Area| Technologies
+🖥️ Frontend| React.js • Next.js • JavaScript • TypeScript
+⚙️ Backend| C# • ASP.NET Core • REST APIs
+🗄️ Database| SQL Server • Supabase
+🧩 Architecture| Clean & Maintainable Architecture
+🔐 Security| Authentication • Authorization
+🔄 APIs| RESTful API Design
+🚀 Deployment| Vercel • Production Workflows
+🔧 Tools| Git • GitHub • Visual Studio • VS Code
+
+---
+
+🛠️ Technology Arsenal
 
 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
 </p>Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
-</p>Database & Backend Services
+<img src="https://skillicons.dev/icons?i=cs,dotnet"/>
+</p>Database & Services
 
 <p>
-<img src="https://skillicons.dev/icons?i=sqlserver,supabase" />
-</p>Tools & Development
+<img src="https://skillicons.dev/icons?i=sqlserver,supabase"/>
+</p>Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,vercel"/>
 </p>---
 
-🚀 Featured Projects
+🚀 Featured Work
 
-🛒 TradMart
+<table>
+<tr><td width="50%" valign="top">🛒 TradMart
 
-Full-Stack Product Marketplace & Management Platform
+Full-Stack Product Marketplace
 
-A modern full-stack product marketplace built with Next.js, React, TypeScript and Supabase, with a centralized Dashboard for managing the website.
+A modern product marketplace and management platform built with Next.js, React, TypeScript and Supabase, featuring a centralized Dashboard for managing the website.
 
-<p>
-  <a href="https://trad-mart.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-2563EB?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/alshaykh27/TradMart">
-    <img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>Highlights
+Highlights
 
-- 🛍️ Dynamic product marketplace
+- 🛍️ Dynamic Product Marketplace
 - 🎛️ Centralized Dashboard
-- 🗄️ Supabase-powered backend
-- 🌐 Multilingual experience
-- 📱 Responsive modern UI
-- ⚡ Next.js & React architecture
-- 🔐 Structured data management
-- 🚀 Vercel deployment
+- 🗄️ Supabase Backend
+- 🌐 Multilingual Experience
+- 📱 Responsive UI
+- ⚡ Modern Web Architecture
+- 🚀 Vercel Deployment
 
-Tech Stack
+Stack
 
 "Next.js" "React" "TypeScript" "Supabase" "Tailwind CSS" "Framer Motion" "Three.js"
 
----
+<br/><a href="https://trad-mart.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge"/>
+</a><a href="https://github.com/alshaykh27/TradMart">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a></td><td width="50%" valign="top">💻 Code Path
 
-💻 Code Path
+Programming Learning Platform
 
-Interactive Programming Learning Platform
+An interactive platform designed to provide a structured programming learning experience.
 
-A modern web platform designed to help users learn programming through an interactive and structured experience.
+Highlights
 
-<p>
-  <a href="https://code-path-xtyn.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-2563EB?style=for-the-badge" />
-  </a>
-</p>Tech Stack
+- 📚 Programming Content
+- 🎯 Learning Experience
+- 🖥️ Responsive Interface
+- ⚡ Interactive Web Experience
+
+Stack
 
 "React" "JavaScript" "HTML" "CSS"
 
----
-
-🏗️ Marble Stone
+<br/><a href="https://code-path-xtyn.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge"/>
+</a></td></tr><tr><td width="50%" valign="top">🏗️ Marble Stone
 
 Responsive Business Website
 
-A responsive business website focused on presenting products and services through a clean and modern interface.
+A modern responsive business website designed to present products and services through a clean interface.
 
-<p>
-  <a href="https://alshaykh27.github.io/Marbel-Stone/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-2563EB?style=for-the-badge" />
-  </a>
-</p>Tech Stack
+Stack
 
 "HTML" "CSS" "JavaScript"
 
----
+<br/><a href="https://alshaykh27.github.io/Marbel-Stone/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge"/>
+</a></td><td width="50%" valign="top">📂 More Projects
+
+Explore my GitHub repositories to discover additional projects, experiments and development work.
+
+<br/><a href="https://github.com/alshaykh27?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
+</a></td></tr>
+</table>---
 
 🏛️ Full-Stack Architecture
 
-                    ┌──────────────────────┐
-                    │       Client         │
-                    │ React / Next.js      │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │      REST APIs       │
-                    │    ASP.NET Core      │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │   Business Logic     │
-                    │ Services / Models    │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │      Database        │
-                    │ SQL Server / SQL     │
-                    └──────────────────────┘
+                         ┌─────────────────────┐
+                         │       Client        │
+                         │ React / Next.js     │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │      REST API       │
+                         │   ASP.NET Core      │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   Business Logic    │
+                         │ Services / Models   │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │      Database       │
+                         │ SQL Server / SQL    │
+                         └─────────────────────┘
 
 ---
 
-⚙️ Engineering Focus
+🧩 Development Philosophy
 
-Area| Focus
-🖥️ Frontend| React.js, Next.js, JavaScript, TypeScript
-⚙️ Backend| C#, ASP.NET Core, REST APIs
-🗄️ Database| SQL Server, Supabase
-🏗️ Architecture| Clean & Maintainable Applications
-🔐 Security| Authentication & Data Protection
-🔄 API| RESTful API Development
-🚀 Deployment| Vercel & Production Workflows
-🔧 Version Control| Git & GitHub
+<table>
+<tr>
+<td align="center">⚡<br/><b>Performance</b></td>
+<td align="center">🧩<br/><b>Maintainability</b></td>
+<td align="center">🔐<br/><b>Security</b></td>
+<td align="center">📈<br/><b>Scalability</b></td>
+<td align="center">👥<br/><b>User Focus</b></td>
+</tr>
+</table>«Build it. Understand it. Improve it.»
+
+I believe good software is not only about making an application work.
+
+It's about building solutions that are understandable, maintainable and ready to evolve.
 
 ---
 
 📊 GitHub Analytics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alshaykh27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshaykh27&layout=compact&theme=tokyonight&hide_border=true" height="170"/></div>---
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=alshaykh27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshaykh27&layout=compact&theme=tokyonight&hide_border=true"/></div>---
 
 🔥 Contribution Streak
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=alshaykh27&theme=tokyonight&hide_border=true" /></div>---
+<div align="center"><img src="https://streak-stats.demolab.com?user=alshaykh27&theme=tokyonight&hide_border=true"/></div>---
 
-🏆 GitHub Achievements
+🏆 GitHub Trophies
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=alshaykh27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /></div>---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=alshaykh27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/></div>---
 
 📈 Contribution Activity
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=alshaykh27&theme=tokyo-night&hide_border=true" /></div>---
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=alshaykh27&theme=tokyo-night&hide_border=true"/></div>---
 
 🐍 Contribution Snake
 
-<div align="center"><img src="https://raw.githubusercontent.com/alshaykh27/alshaykh27/output/github-contribution-grid-snake.svg" /></div>---
+<div align="center"><img src="https://raw.githubusercontent.com/alshaykh27/alshaykh27/output/github-contribution-grid-snake.svg"/></div>---
 
-🎯 Development Philosophy
+📚 Current Engineering Focus
 
-«Build it. Understand it. Improve it.»
+C#
+ │
+ ├── ASP.NET Core
+ │      ├── REST APIs
+ │      ├── Authentication
+ │      └── Business Logic
+ │
+ ├── Entity Framework Core
+ │
+ └── SQL Server
 
-I believe good software is not only about making things work.
+Frontend
+ │
+ ├── React.js
+ ├── Next.js
+ ├── TypeScript
+ └── Modern UI
 
-It's about creating solutions that are:
-
-- ⚡ Efficient
-- 🧩 Maintainable
-- 🔐 Secure
-- 📈 Scalable
-- 👥 User-focused
-
----
-
-📚 Currently Focused On
-
-- Advanced ASP.NET Core
-- RESTful API Architecture
-- Entity Framework Core
-- SQL Server & Database Design
-- Authentication & Authorization
-- React & Modern Frontend Architecture
-- Clean Architecture
-- Software Engineering Best Practices
+Engineering
+ │
+ ├── Clean Architecture
+ ├── API Design
+ ├── Database Design
+ └── Software Engineering
 
 ---
 
 🤝 Let's Connect
 
 <div align="center"><a href="https://github.com/alshaykh27">
-<img src="https://img.shields.io/badge/GitHub-alshaykh27-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-alshaykh27-181717?style=for-the-badge&logo=github"/>
 </a><a href="https://www.linkedin.com/in/mohamed-khamis-hassen-370054221">
-<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Khamis-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Khamis-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a><a href="mailto:mohamedabualshaykh27@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></div>---
 
 <div align="center">🚀 Building modern applications. Solving real problems. Growing every day.
 
-⭐ Feel free to explore my repositories and projects.
+<br/>⭐ Explore my repositories and follow my development journey.
 
-</div>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer"/></div>
